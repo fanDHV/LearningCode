@@ -1,0 +1,21 @@
+1. 25/01/2014:
+  - already computed angles of faces in "Poly.cpp".
+  - but not yet used sucessfully because of parameter passing problem.
+  - then now compute directly in "slice-mngt.cpp" in the constructor.
+  
+  --> it however woulb be nice if we include the angle calculation in "Poly.cpp".
+  
+2. 29/01/2014:
+  - recall check the status of shooting points (interior, vertex of terrain, or
+    on lateral edge).
+  - then recall the refinement of the shooting points in each status of the 
+    points.
+  - finally check if the calculating the curve angle which follows the straightest
+    geodesics, is correct or not.
+  
+  - angle calculation is duplicated in both "checkCollinear" and "computeUpdate"
+  
+3. 30/01/2014:
+  - Face::isOn: not on face at all!
+  - need to recall the checking if a next shooting point goes outside of current
+    segment on slice.

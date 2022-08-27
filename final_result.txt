@@ -1,0 +1,200 @@
+
+
+
+
+
+ 
+
+52 vertices
+ 
+  
+ New test---
+ ###1 ok Source : (40.1375,45.9375,109.233)
+  Destination: (34.2175,45.9375,52.2551)
+ Index of source and dest faces is 21 and 34
+ ===== Iterations: 2
+ Cutting slices number: 20
+ Lengths of initial path: 338.98110
+ Lengths of SGP final path: 259.24181
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...259.95405
+
+
+ 
+###1 ok New test---
+  Source : (32.7406,12.0365,96.0251)
+  Destination: (62.0178,12.0365,32.3679)
+ Index of source and dest faces is 1 and 54
+ ===== Iterations: 5
+ Cutting slices number: 25
+ Lengths of initial path: 328.56097
+ Lengths of SGP final path: 249.61456
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...252.28231
+
+ 
+
+ 
+
+ 
+ 
+
+##116 vertices
+
+
+ New test---
+###1 ok  Source : (89.1346,15.0337,156.993)
+  Destination: (18.8238,15.0337,65.1109)
+ Index of source and dest faces is 14 and 62
+ ===== Iterations: 11
+ Cutting slices number: 38
+ Lengths of initial path: 543.80637
+ Lengths of SGP final path: 355.00637
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...355.00637
+
+ 
+ New test---
+##3  Source : (52.8688,15.6211,101.703)
+  Destination: (91.9018,15.6211,39.7301)
+ Index of source and dest faces is 12 and 34
+ ===== Iterations: 11
+ Cutting slices number: 25
+ Lengths of initial path: 320.52219
+ Lengths of SGP final path: 239.44374
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...239.44374
+ 
+ 
+
+ 
+ New test---
+  Source : (96.4313,13.2671,148.325)
+  Destination: (114.047,13.2671,67.5543)
+ Index of source and dest faces is 14 and 64
+ ===== Iterations: 9
+ Cutting slices number: 36
+ Lengths of initial path: 328.19345
+ Lengths of SGP final path: 312.07244
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...312.07244
+
+
+New test---
+  Source : (93.8574,21.896,162.987)
+  Destination: (19.0878,21.896,43.054)
+ Index of source and dest faces is 1 and 45
+ ===== Iterations: 23
+ Cutting slices number: 45
+ Lengths of initial path: 743.20540
+ Lengths of SGP final path: 463.63996
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...463.38472
+ 
+ New test---
+  Source : (54.11,18.2225,108.069)
+  Destination: (92.7178,18.2225,34.6102)aa
+ Index of source and dest faces is 12 and 34
+ ===== Iterations: 14
+ Cutting slices number: 27
+ Lengths of initial path: 340.11643
+ Lengths of SGP final path: 283.82451
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...283.82451
+
+
+###################
+ 
+
+
+  ## 45 vertices
+
+  New test---
+  Source : (72.3588,65.688,89.9901)
+  Destination: (92.5368,65.688,39.3651)
+ Index of source and dest faces is 4 and 52
+ ===== Iterations: 4
+ Cutting slices number: 14
+ Lengths of initial path: 268.58908
+ Lengths of SGP final path: 195.60023
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...195.60023
+
+
+%%
+ource : (72.3588,65.688,89.9901)
+  Destination: (92.4363,65.688,39.3472)
+ Index of source and dest faces is 4 and 52
+ ===== Iterations: 0
+ Cutting slices number: 14
+ Lengths of initial path: 199.74651
+ Lengths of SGP final path: 195.66925
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...195.66925
+  Adjusted SP(p,q) has length...195.66925
+
+
+ 
+##2 ok New test---
+  Source : (10.226,76.6659,67.9443)
+  Destination: (42.5291,76.6659,44.4927)
+ Index of source and dest faces is 26 and 82
+ ===== Iterations: 15
+ Cutting slices number: 9
+ Lengths of initial path: 120.22644
+ Lengths of SGP final path: 100.43601
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...103.01773
+Adjusted SP(p,q) has length...103.08323
+
+%%
+
+New test---
+  Source : (10.226,76.6659,67.9443)
+  Destination: (42.3067,76.6659,46.272)
+ Index of source and dest faces is 26 and 82
+ ===== Iterations: 0
+ Cutting slices number: 9
+ Lengths of initial path: 138.07296
+ Lengths of SGP final path: 93.56132
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...96.14306
+  Adjusted SP(p,q) has length...103.08323
+
+
+#####################
+
+##3 ok New test---
+  Source : (32.4278,54.798,95.6979)
+  Destination: (37.2718,54.798,37.4659)
+ Index of source and dest faces is 16 and 13
+ ===== Iterations: 2
+ Cutting slices number: 16
+ Lengths of initial path: 247.65547
+ Lengths of SGP final path: 227.51565
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...234.57873
+%%%
+ New test---
+  Source : (32.4278,54.798,95.6979)
+  Destination: (35.826,54.798,43.7749)
+ Index of source and dest faces is 16 and 13
+ ===== Iterations: 0
+ Cutting slices number: 15
+ Lengths of initial path: 217.00222
+ Lengths of SGP final path: 203.13947
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...210.20255
+  Adjusted SP(p,q) has length...257.28929
+
+##1 ok New test--- ### figure 45_vertices
+  Source : (53.4955,36.1105,103.617)
+  Destination: (91.5501,36.1105,44.9137)
+ Index of source and dest faces is 9 and 1
+ ===== Iterations: 7
+ Cutting slices number: 16
+ Lengths of initial path: 274.28685
+ Lengths of SGP final path: 226.81071
+ Slope is....0.258819
+  === Global Solution === SGP(p,q) obtained has length...226.81071
+
